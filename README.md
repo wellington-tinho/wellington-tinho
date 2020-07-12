@@ -17,7 +17,7 @@ Você pode entrar em contato comigo através dessas contas!
      <img align="left" alt="Wellington Rodrigues | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
    </a>
   
-   <a href="https://discord.gg/K2hAgZ">
+   <a href="https://discord.gg/NUsMtPD">
      <img align="left" alt="Wellington Rodrigues  | Discord" width="26px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/discord.svg" />
    </a>
   
