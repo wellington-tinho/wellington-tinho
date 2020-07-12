@@ -3,7 +3,7 @@
 
 ## :man_technologist:  Olá 👋, eu sou Wellington!
 
-Programador-jr com foco em melhorar minhas habilidades diariamente, empenhando em compreender as principais tendencias tecnológicas que nos cercam.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
+Programador jr com foco em melhorar minhas habilidades diariamente, me empenho em compreender as principais tendencias tecnológicas que nos cercam, afim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
 
 - :books: Atualmente estudando Javascript, algoritmos em redes mesh via SDN (TCC). 
 - 👩‍🎓 : Discente do curso de Sistemas de Informação - UFPI
