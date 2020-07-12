@@ -10,7 +10,7 @@ Programador jr com foco em melhorar minhas habilidades diariamente, me empenho e
 
 ### Outras contas 📫
 
-Vocẽ pode entrar em contato comigo através dessas contas!
+Você pode entrar em contato comigo através dessas contas!
 
 -  
    <a href="https://in.linkedin.com/in/wellington-rodrigues-a11b1392/">
