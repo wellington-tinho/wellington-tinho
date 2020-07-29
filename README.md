@@ -5,7 +5,7 @@
 
 Programador jr com foco em melhorar minhas habilidades diariamente, me empenho em compreender as principais tendencias tecnológicas que nos cercam, afim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
 
-- :books: Atualmente estudando Javascript e algoritmos em redes mesh via SDN (TCC). 
+- :books: Atualmente estudando Javascript, Marketing Digital e algoritmos em redes mesh via SDN (TCC). 
 - 👨‍🎓  Discente do curso de Sistemas de Informação - UFPI.
 
 ### Outras contas 📫
