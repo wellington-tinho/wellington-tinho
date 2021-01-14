@@ -13,7 +13,7 @@ Programador jr com foco em melhorar minhas habilidades diariamente, me empenho e
 Você pode entrar em contato comigo através dessas contas!
 
 -  
-   <a href="https://in.linkedin.com/in/wellington-rodrigues-a11b1392/">
+   <a href="www.linkedin.com/in/wellington123">
      <img align="left" alt="Wellington Rodrigues | Linkedin" width="24px" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Linkedin.svg" />
    </a>
   
