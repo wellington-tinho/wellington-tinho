@@ -5,9 +5,8 @@
 
 Programador jr com foco em melhorar minhas habilidades diariamente, me empenho em compreender as principais tendencias tecnológicas que nos cercam, afim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
 
-- :books: Atualmente estudando Javascript e algoritmos em redes mesh via SDN (TCC). 
-- 👨‍🎓  Discente do curso de Sistemas de Informação - UFPI.
-
+- :books: Atualmente estudando ReactJS e Next.js. 
+- 👨‍🎓  Discente do curso de Sistemas de Informação - [UFPI](https://www.ufpi.br/picos) e Ignite - [Rocketseat](https://github.com/Rocketseat).
 ### Outras contas 📫
 
 Você pode entrar em contato comigo através dessas contas!
