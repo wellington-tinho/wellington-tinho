@@ -3,7 +3,7 @@
 
 ## :man_technologist:  Olá 👋, eu sou Wellington!
 
-Programador jr com foco em melhorar minhas habilidades diariamente.
+Programador Jr. com foco em melhorar minhas habilidades diariamente.
 Me empenho em compreender as principais tendencias tecnológicas que nos cercam, a fim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
 
 - :books: Atualmente estudando [Next,js](https://nextjs.org/). 
