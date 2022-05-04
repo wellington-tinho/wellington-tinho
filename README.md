@@ -3,7 +3,8 @@
 
 ## :man_technologist:  Olá 👋, eu sou Wellington!
 
-Programador jr com foco em melhorar minhas habilidades diariamente, me empenho em compreender as principais tendencias tecnológicas que nos cercam, afim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
+Programador jr com foco em melhorar minhas habilidades diariamente.
+Me empenho em compreender as principais tendencias tecnológicas que nos cercam, a fim de me tornar um Full Stack Developer.<img  width="15" src="https://github.com/wrtinho/wrtinho/blob/master/Assets/Rocket.gif"> 
 
 - :books: Atualmente estudando [Next,js](https://nextjs.org/). 
 - 👨‍🎓  Discente do curso de Sistemas de Informação - [UFPI](https://www.ufpi.br/picos) e Ignite - [Rocketseat](https://github.com/Rocketseat).
