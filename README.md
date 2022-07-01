@@ -1,16 +1,16 @@
 <div align="center">
-  <img align="center" width="650" alt="👋 Hi there! I'm Wellington" title="👋 Hi there! I'm Wellington" src="https://github.com/wellington-tinho/wellington-tinho/blob/master/.github/intro.gif" >
+  <img align="center" width="600" alt="👋 Hi there! I'm Wellington" title="👋 Hi there! I'm Wellington" src="https://github.com/wellington-tinho/wellington-tinho/blob/master/.github/intro.gif" >
 </div>
 
 ---
 
 <h2 align="center"> Olá 👋 pessoal, bem vindo ao meu github!</h2>
 
-### Sou Wellington, desenvolvedor **Front-End**, hoje minha *stack* dominante é o **React.js**. Mas também consigo desenvolver apps com React Native para mobile e Node.js para o backend.
+### Sou Wellington, desenvolvedor **Front-end**, hoje minha *stack* dominante é o **React.js**. Mas também consigo desenvolver apps com React Native para Mobile e Node.js para o Back-end.
 
 <br/>
 
-- 🌱 Atualmente estou aprendendo **Next.js, React native, Node.js, TypeORM, postgreSQL..**
+- 🌱 Atualmente estou aprendendo **React, Next, Vue.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/wellington-tinho](https://github.com/wellington-tinho)
 
