@@ -16,7 +16,6 @@
 
 - 📫 Como me contatar **sousa_wellington@outlook.com**
 
-- 📄 Conheça minhas experiências [https://tinho.dev](https://tinho.dev)
 
 
 <details> 
