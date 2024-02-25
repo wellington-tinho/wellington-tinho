@@ -4,13 +4,10 @@
 
 ---
 
-<h2 align="center"> Olá 👋 pessoal, bem vindo ao meu github!</h2>
-
-### Sou Wellington, desenvolvedor **Front-end**, hoje minha *stack* dominante é o **React.js**. Mas também consigo desenvolver apps com React Native para Mobile e Node.js para o Back-end.
-
+### Sou Wellington, desenvolvedor **Front-end**, minha especialização está no Vue.js, mas também tenho conhecimento em outras tecnologias, como React.js e React Native. Tenho a capacidade de replicar qualquer interface utilizando práticas modernas.
 <br/>
 
-- 🌱 Atualmente estou aprendendo **React, Next, Vue.**
+- 🌱 Atualmente estou aprendendo **Node.js**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/wellington-tinho](https://github.com/wellington-tinho)
 
