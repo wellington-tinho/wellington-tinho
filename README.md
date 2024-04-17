@@ -4,14 +4,11 @@
 
 ---
 
-### Sou Wellington, desenvolvedor **Front-end**, minha especialização está no Vue.js, mas também tenho conhecimento em outras tecnologias, como React.js e React Native. Tenho a capacidade de replicar qualquer interface utilizando práticas modernas.
+### SSou Wellington, um desenvolvedor versátil focado no Front-end mas que pode atuar em qualquer área do projeto, tenho base sólida nos fundamentos de programação adquirido pelo meu bacharelado em Sistemas de Informação pela Universidade Federal. Tenho a capacidade de replicar qualquer interface utilizando práticas modernas.
 <br/>
 
-- 🌱 Atualmente estou aprendendo **Node.js**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/wellington-tinho](https://github.com/wellington-tinho)
-
-- 📫 Como me contatar **sousa_wellington@outlook.com**
+- 📫 Meu email: **sousa_wellington@outlook.com**
 
 
 
