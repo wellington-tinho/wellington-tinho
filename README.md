@@ -4,7 +4,8 @@
 
 ---
 
-### SSou Wellington, um desenvolvedor versátil focado no Front-end mas que pode atuar em qualquer área do projeto, tenho base sólida nos fundamentos de programação adquirido pelo meu bacharelado em Sistemas de Informação pela Universidade Federal. Tenho a capacidade de replicar qualquer interface utilizando práticas modernas.
+#### Sou Wellington, um desenvolvedor versátil focado no Front-end mas que pode atuar em qualquer área do projeto, tenho base sólida nos fundamentos de programação adquirido pelo meu bacharelado em Sistemas de Informação pela Universidade Federal. 
+#### Tenho a capacidade de replicar qualquer interface utilizando práticas modernas.
 <br/>
 
 
